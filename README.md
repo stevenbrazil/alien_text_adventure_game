@@ -1,2 +1,2 @@
-# alien_text_adventure_game
+# Alien_Text_Adventure_Game
 Python Game - Project
