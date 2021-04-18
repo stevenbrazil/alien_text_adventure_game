@@ -4,4 +4,4 @@
 <p>In this game, you have been abducted by an alen, General Florp Jiggawatt</p>
 <p>Collect all 6 items and vaporize Florp before you are trapped and vaporized your self!</p>
 
-
+<img src = "alien_output.jpg" alt = "Picture of project output">
